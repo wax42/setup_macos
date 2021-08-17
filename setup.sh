@@ -15,6 +15,7 @@ rm -rf $HOME/.brew && git clone --depth=1 https://github.com/Homebrew/brew $HOME
 # Install software
 
 brew install --cask google-chrome   
+brew install --cask firefox
 brew install --cask visual-studio-code
 brew install --cask iterm2
 brew install --cask slack

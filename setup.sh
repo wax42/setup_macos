@@ -23,7 +23,7 @@ brew install --cask discord
 brew install --cask figma
 brew install --cask notion
 brew install --cask dbeaver-community
-
+brew install --cask docker
 
 brew install docker
 brew install python@3.9

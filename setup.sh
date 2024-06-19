@@ -22,8 +22,11 @@ brew install --cask slack
 brew install --cask discord
 brew install --cask figma
 brew install --cask notion
-brew install --cask dbeaver-community
+brew install --cask pgadmin4
 brew install --cask docker
+brew install --cask maccy
+brew install --cask vlc
+brew install --cask lunar
 
 brew install docker
 brew install python@3.9
